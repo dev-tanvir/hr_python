@@ -4,8 +4,8 @@
 # problem: 
 
 """
-You are given three integers  and  representing the dimensions of a cuboid along with an integer . You have to print a list of all possible 
-   coordinates given by  on a 3D grid where the sum of is not equal to . Here,
+You are given three integers X, Y and Z representing the dimensions of a cuboid along with an integer . You have to print a list of all possible 
+   coordinates given by  on a 3D grid where the sum of is not equal to N . Here,
 
 Input Format
 
