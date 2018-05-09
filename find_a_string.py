@@ -15,9 +15,6 @@ Output the integer number indicating the total number of occurrences of the subs
 
 """
 
-
-
-
 def count_substring(string, sub_string):
   counter=0
   i=0
