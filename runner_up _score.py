@@ -24,6 +24,10 @@ if __name__ == '__main__':
     n = int(input())
     arr = list(sorted(set(map(int, input().split()))))
     #print(arr)
-    print(arr[-2])
+    if len(arr) == 1:
+    	print(arr[0])
+
+    else:
+    	print(arr[-2])
     
     
